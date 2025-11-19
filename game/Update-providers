@@ -6,6 +6,7 @@
   - DOMAIN-SUFFIX,au-res.9you.com
   - DOMAIN-SUFFIX,audownload.9game.cn
   - DOMAIN-SUFFIX,cdn.9game.cn
+# https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Providers/Ruleset/GameDownload.yaml
   - DOMAIN,ssl-lvlt.cdn.ea.com
   - DOMAIN,origin-a.akamaihd.net
   - DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
