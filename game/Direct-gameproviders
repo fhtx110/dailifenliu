@@ -1,0 +1,5 @@
+# 劲舞团游戏主服务直连
+- DOMAIN-SUFFIX,game.audition.com,DIRECT
+- DOMAIN-SUFFIX,login.audition.com,DIRECT
+- DOMAIN-SUFFIX,server.audition.com,DIRECT
+- DOMAIN-SUFFIX,au.9you.com,DIRECT
